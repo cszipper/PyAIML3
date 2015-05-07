@@ -1,0 +1,704 @@
+Loading aiml/self-test.aiml...
+
+
+
+
+
+
+TEST BOT
+
+
+My name is 
+
+
+
+
+
+
+
+
+
+
+TEST CONDITION NAME VALUE
+
+
+
+
+You are handsome
+
+
+
+
+
+
+
+
+TEST CONDITION NAME
+
+
+
+
+    
+
+
+        
+You are handsome
+
+
+        
+You are beautiful
+
+
+        
+You are genderless
+
+
+    
+
+
+
+
+
+
+
+
+TEST CONDITION
+
+
+
+
+    
+
+
+        
+You are handsome
+
+
+        
+You are beautiful
+
+
+        
+You are genderless
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+TEST DATE
+
+
+The date is 
+
+
+
+
+
+
+
+
+
+
+TEST FORMAL
+
+
+formal test passed
+
+
+
+
+
+
+
+
+TEST GENDER
+
+
+She'd told him she heard that his hernia is history
+
+
+
+
+
+
+
+
+
+
+TEST GET AND SET
+
+
+I like 
+cheese
+. My favorite food is 
+
+
+
+
+
+
+
+
+
+
+TEST GOSSIP
+
+
+Gossip is not yet implemented
+stuff
+
+
+
+
+
+
+
+
+
+
+TEST ID
+
+
+Your id is 
+
+
+
+
+
+
+
+
+
+
+TEST INPUT
+
+
+You just said: 
+
+
+
+
+
+
+
+
+
+
+TEST JAVASCRIPT
+
+
+Javascript is not yet implemented
+var stuff
+
+
+
+
+
+
+
+
+
+
+TEST LOWERCASE
+
+
+The Last Word Should Be 
+Lowercase
+
+
+
+
+
+
+
+
+
+
+TEST PERSON
+
+
+I think he knows that his actions threaten me and mine.
+
+
+
+
+
+
+
+
+
+
+TEST PERSON2
+
+
+I think you know that your actions threaten me and mine.
+
+
+
+
+
+
+TEST PERSON2 *
+
+
+
+
+
+
+
+
+
+
+
+
+TEST RANDOM
+
+
+
+
+
+
+	
+response #1
+
+
+	
+response #2
+
+
+	
+response #3
+
+
+
+
+
+
+
+
+
+
+TEST RANDOM EMPTY
+
+
+
+
+Nothing 
+here!
+
+
+
+
+
+
+
+
+
+
+
+
+TEST SENTENCE
+
+
+
+
+my first letter should be capitalized.
+
+
+
+
+
+
+
+
+
+
+
+
+TEST SIZE
+
+
+I've learned 
+ categories
+
+
+
+
+
+
+
+
+
+
+TEST SR *
+
+
+srai results: 
+
+
+
+
+
+
+TEST NESTED SR *
+
+
+test sr 
+
+
+
+
+
+
+
+
+
+
+SRAI TARGET
+
+
+srai test passed
+
+
+
+
+
+
+TEST SRAI
+
+
+srai target
+
+
+
+
+
+
+TEST SRAI INFINITE
+
+
+test srai infinite
+
+
+
+
+
+
+
+
+
+
+* TEST STAR BEGIN
+
+
+Begin star matched: 
+
+
+
+
+
+
+TEST STAR * MIDDLE
+
+
+Middle star matched: 
+
+
+
+
+
+
+TEST STAR END *
+
+
+End star matched: 
+
+
+
+
+
+
+TEST STAR * MULTIPLE * MAKES ME *
+
+
+Multiple stars matched: 
+, 
+, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEST SYSTEM
+
+
+The system says 
+echo hello
+!
+
+
+
+
+
+
+
+
+
+
+TEST THAT
+
+
+I just said: 
+
+
+
+
+
+
+TEST THAT
+
+
+I JUST SAID *
+
+
+I have already answered this question
+
+
+
+
+
+
+
+
+
+
+TEST THATSTAR
+
+
+I say beans
+
+
+
+
+
+
+TEST THATSTAR
+
+
+I SAY *
+
+
+I just said "
+"
+
+
+
+
+
+
+TEST THATSTAR MULTIPLE
+
+
+I say beans and franks for everybody
+
+
+
+
+
+
+TEST THATSTAR MULTIPLE
+
+
+I SAY * AND * FOR EVERYBODY
+
+
+Yes, 
+ and 
+ for all!
+
+
+
+
+
+
+
+
+
+
+
+
+TEST THINK
+
+
+You should not see this response.
+
+
+
+
+
+
+
+
+
+
+TEST TOPIC
+
+
+What are we talking about?
+
+
+
+
+
+
+
+
+TEST TOPIC
+
+
+We were discussing apples and oranges
+
+
+
+
+
+
+
+
+
+
+
+
+TEST TOPICSTAR
+
+
+I have no topic
+
+
+
+
+
+
+
+
+TEST TOPICSTAR
+
+
+Solyent 
+ is made of people!
+
+
+
+
+
+
+
+
+
+
+TEST TOPICSTAR MULTIPLE
+
+
+Both Soylents 
+ and 
+ are made of people!
+
+
+
+
+
+
+
+
+
+
+
+
+TEST UPPERCASE
+
+
+The Last Word Should Be 
+Uppercase
+
+
+
+
+
+
+
+
+
+
+TEST VERSION
+
+
+PyAIML is version 
+
+
+
+
+
+
+
+
+
+
+ÔÇÉÏºÃ
+
+
+Hey, you speak Chinese! ÔÇÉÏºÃ
+
+
+
+
+
+
+
+
+
+
+TEST WHITESPACE
+
+
+Extra   Spaces
+
+
+   Rule!   
+(but   not   
+in
+
+
+                                           here!
+)
+
+
+   
+   But   
+Here   They
+   Do!
+
+
+
+
+
+
+done (0.08 seconds)
